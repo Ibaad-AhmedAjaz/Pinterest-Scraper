@@ -59,6 +59,3 @@ This will create a hierarchy of folders and images as follows:
 
 ![Downloaded Images](readme_images/folders.png)
 <br>
-##### NOTE: 
-Web Scraping from many websites is Illegal. <br>
-This project is just for Learning and Fun.
